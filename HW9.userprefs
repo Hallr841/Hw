@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/eater.cs">
+    <Files>
+      <File FileName="Assets/scripts/eater.cs" Line="28" Column="23" />
+      <File FileName="Assets/scripts/GhostMove.cs" Line="24" Column="42" />
+      <File FileName="Assets/scripts/planter.cs" Line="25" Column="1" />
+      <File FileName="Assets/scripts/cameraCon.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/playerCon.cs" Line="102" Column="1" />
+      <File FileName="Assets/scripts/rotate.cs" Line="14" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
